@@ -4,20 +4,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
 <script src="./spec.js"></script>
 <pre class="metadata">
-title: Proposal Title Goes Here
-stage: -1
-contributors: Your Name(s) Here
+title: Stricter Function.prototype.toString
+status: proposal
+stage: 0
+shortname: &lt;a href="https://github.com/gibson042/proposal-stricter-function-tostring"&gt;proposal-stricter-function-tostring&lt;/a&gt;
+contributors: Richard Gibson
 </pre>
 
-<emu-clause id="sec-demo-clause">
-  <h1>This is an emu-clause</h1>
-  <p>This is an algorithm:</p>
-  <emu-alg>
-    1. Let _proposal_ be *undefined*.
-    1. If IsAccepted(_proposal_), then
-      1. Let _stage_ be *0*<sub>ℤ</sub>.
-    1. Else,
-      1. Let _stage_ be *-1*<sub>ℤ</sub>.
-    1. Return ? ToString(_proposal_).
-  </emu-alg>
+<emu-clause id="sec-function.prototype.tostring">
+  <h1>Function.prototype.toString ( )</h1>
+  <p>Changes TBD</p>
 </emu-clause>
